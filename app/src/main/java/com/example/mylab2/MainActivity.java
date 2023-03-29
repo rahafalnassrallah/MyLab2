@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         b=(Button)findViewById(R.id.send);
         e=(EditText)findViewById(R.id.Name);
-
+//hhhhhhhhhhh
         b.setOnClickListener (new View.OnClickListener() {
 
             @Override
